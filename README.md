@@ -1,3 +1,6 @@
+Not My Repo!!!
+Just a Backup for Mini-LZ4 By slicewire-dev
+
 # Mini-LZ4
 **LZ4 Compression In Pure JavaScript**
 ### About
