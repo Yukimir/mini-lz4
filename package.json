@@ -1,0 +1,41 @@
+{
+  "_from": "mini-lz4@^3.0.0",
+  "_id": "mini-lz4@3.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-F8LfrZH9v+6xRqnI/7oiYySLo3Q=",
+  "_location": "/mini-lz4",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "mini-lz4@^3.0.0",
+    "name": "mini-lz4",
+    "escapedName": "mini-lz4",
+    "rawSpec": "^3.0.0",
+    "saveSpec": null,
+    "fetchSpec": "^3.0.0"
+  },
+  "_requiredBy": [
+    "/aigis-fuel"
+  ],
+  "_resolved": "https://registry.nlark.com/mini-lz4/download/mini-lz4-3.0.0.tgz",
+  "_shasum": "17c2dfad91fdbfeeb146a9c8ffba2263248ba374",
+  "_spec": "mini-lz4@^3.0.0",
+  "_where": "C:\\Users\\LuoLin\\Documents\\Aigis\\AigisPlayer\\node_modules\\aigis-fuel",
+  "author": {
+    "name": "JairusSW"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Simple LZ4 In Pure JavaScript",
+  "keywords": [
+    "lz4",
+    "compression",
+    "js",
+    "small"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "mini-lz4",
+  "version": "3.0.0"
+}
